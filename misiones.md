@@ -6,3 +6,4 @@
 - Dar gracias
 - Sonreir a un extrano
 - Ayudar a quien lo necesite
+- Mision agregada desde feature/test
